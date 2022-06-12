@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @pooooony
-- 👀 I’m interested in sleep
-- 🌱 I’m currently learning sleep
-- 💞️ I’m looking to collaborate on sleep
-- 📫 How to reach me ...
+- 👀 I’m interested in java&python
+- 💞️ I’m looking to a job
+- 🌱 How to reach me ...
+- 📫 ponywind@gmail.com
+- QQ:30311509
+- wechat:coder_Pony
 
 <!---
 pooooony/pooooony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
