@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @pooooony
-- 👀 I’m interested in java&python
-- 💞️ I’m looking to a job
-- 🌱 How to reach me ...
+
 - 📫 ponywind@gmail.com
-- QQ:30311509
-- wechat:coder_Pony
+- QQ:1356137040
+- wechat:kawakipony
 
 <!---
 pooooony/pooooony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
